@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     {{-- <link rel="stylesheet" href="{{ asset('css/app.css') }}"> --}}
-    <link rel="stylesheet" href="http://drinkshop-production.up.railway.app/css/app.css">
+    <link rel="stylesheet" href="https://drinkshop-production.up.railway.app/css/app.css">
 
     <title>Drink Shop</title>
     {{-- <script src="{{ asset('js/mapInput.js') }}"></script> --}}
-    <script src="http://drinkshop-production.up.railway.app/js/mapInput.js"></script>
+    <script src="https://drinkshop-production.up.railway.app/js/mapInput.js"></script>
 </head>
 
 <body class="font-body">
