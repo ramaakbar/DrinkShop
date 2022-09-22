@@ -40,7 +40,8 @@
         async defer></script>
 
 
-    <script src="{{ asset('js/script.js') }}"></script>
+    {{-- <script src="{{ asset('js/script.js') }}"></script> --}}
+    <script src="https://drinkshop.up.railway.app/js/script.js"></script>
 </body>
 
 </html>
